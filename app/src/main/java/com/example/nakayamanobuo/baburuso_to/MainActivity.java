@@ -43,23 +43,23 @@ public class MainActivity extends Activity {
                 switch (x) {
                     case 0:
                         TextView a = (TextView) findViewById(R.id.textView3);
-                        a.setText("名前は" + name[x] + "点数は" + score[y] + "です。\n");
+                        a.setText("お名前は" + name[x] + "点数は" + score[y] + "です。\n");
                         break;
                     case 1:
                         TextView b = (TextView) findViewById(R.id.textView4);
-                        b.setText("名前は" + name[x] + "点数は" + score[y] + "です。\n");
+                        b.setText("お名前は" + name[x] + "点数は" + score[y] + "です。\n");
                         break;
                     case 2:
                         TextView c = (TextView) findViewById(R.id.textView5);
-                        c.setText("名前は" + name[x] + "点数は" + score[y] + "です。\n");
+                        c.setText("お名前は" + name[x] + "点数は" + score[y] + "です。\n");
                         break;
                     case 3:
                         TextView d = (TextView) findViewById(R.id.textView6);
-                        d.setText("名前は" + name[x] + "点数は" + score[y] + "です。\n");
+                        d.setText("お名前は" + name[x] + "点数は" + score[y] + "です。\n");
                         break;
                     case 4:
                         TextView e = (TextView) findViewById(R.id.textView7);
-                        e.setText("名前は" + name[x] + "点数は" + score[y] + "です。\n");
+                        e.setText("お名前は" + name[x] + "点数は" + score[y] + "です。\n");
                         break;
                     default:
                         break;
