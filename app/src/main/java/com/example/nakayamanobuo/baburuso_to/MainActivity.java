@@ -59,11 +59,11 @@ public class MainActivity extends Activity {
                         break;
                     case 4:
                         TextView e = (TextView) findViewById(R.id.textView7);
-                        e.setText("私は部分です。\n");
+                        e.setText("私は修正部分です。");
                         break;
                     case 5:
                         TextView f = (TextView) findViewById(R.id.textView7);
-                        f.setText("私は追加部分です。\n");
+                        f.setText("私は部分です。");
                         break;
                     default:
                         break;
